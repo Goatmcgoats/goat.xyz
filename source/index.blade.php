@@ -33,21 +33,32 @@
     <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
     
     <div class="row">
-    <div class="column">
-    <ul>
-  <li><a href="#news">asd</a></li>
-  <li><a href="#news">asdasdasd</a></li>
-  <li><a href="#news">we</a></li>
-  <li><a href="#news">ewrerwer</a></li>
-  <li><a href="#news">New23424ws</a></li>
-  <li><a href="#news">Ne2356666666ws</a></li>
-  <li><a href="#news">Ne77777777777777ws</a></li>
-</ul>
-    </div>
+        <div class="column">
+        <ul>
+      <li><a href="#news">asd</a></li>
+      <li><a href="#news">asdasdasd</a></li>
+      <li><a href="#news">we</a></li>
+      <li><a href="#news">ewrerwer</a></li>
+      <li><a href="#news">New23424ws</a></li>
+      <li><a href="#news">Ne2356666666ws</a></li>
+      <li><a href="#news">Ne77777777777777ws</a></li>
+    </ul>
+        </div>
     
     
     
-    <div class="column"></div>
+        <div class="column">
+            <ul>
+      <li><a href="#news">asd</a></li>
+      <li><a href="#news">asdasdasd</a></li>
+      <li><a href="#news">we</a></li>
+      <li><a href="#news">ewrerwer</a></li>
+      <li><a href="#news">New23424ws</a></li>
+      <li><a href="#news">Ne2356666666ws</a></li>
+      <li><a href="#news">Ne77777777777777ws</a></li>
+    </ul>
+
+        </div>
     </div>
     
     
