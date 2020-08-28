@@ -15,6 +15,10 @@ html {
     -webkit-text-size-adjust: 100%
 }
 
+::selection {
+  background: yellow;
+}
+
 article,header,footer {
     padding: 10.5px;
 }
