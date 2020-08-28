@@ -1,11 +1,16 @@
 // Tacit - CSS Framework for Dummies, Without Classes
 @import url('https://unpkg.com/tacit-css@1.5.1/dist/tacit-css-1.5.1.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
 button[data-sharer] {
     color: #fff;
+}
+
+h1 {
+    font-family: 'Krona One', sans-serif;
 }
 
 .test-css {
