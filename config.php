@@ -14,7 +14,7 @@ return [
         'github' => 'Bob',
     ],
     'services' => [
-        'cmsVersion' => '2.10.56',
+        'cmsVersion' => '2.10.55',
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'XXXXXXXXXXXX',
         'formcarry' => 'XXXXXXXXXXXX',
