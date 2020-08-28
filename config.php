@@ -9,12 +9,12 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Bob',
+        'twitter' => 'Bob',
+        'github' => 'Bob',
     ],
     'services' => [
-        'cmsVersion' => '2.10.52',
+        'cmsVersion' => '2.10.56',
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'XXXXXXXXXXXX',
         'formcarry' => 'XXXXXXXXXXXX',
