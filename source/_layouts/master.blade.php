@@ -37,7 +37,7 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
+                <a href="/feed.atom">RSS</a>
             </small>
         </footer>
     </section>
