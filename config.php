@@ -2,10 +2,10 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://tender-fermi-794a0e.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'XXXXXXXXXXXX',
+        'description' => 'aaaaaaaaaaaaaa',
         'image' => 'default-share.png',
     ],
     'owner' => [
@@ -16,7 +16,7 @@ return [
     'services' => [
         'cmsVersion' => '2.10.52',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => 'XXXXXXXXXXXX',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
             'cloudName' => 'artisanstatic',
